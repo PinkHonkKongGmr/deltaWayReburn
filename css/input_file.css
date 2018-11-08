@@ -1,0 +1,26 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan|Orbitron');
+@import url('https://fonts.googleapis.com/css?family=Federant');
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Federant');
+
+.input_file
+{display: flex;}
+.inputFile
+{display:none!important;}
+
+
+
+.block_inputFile
+{position: relative;}
+
+.x
+{position: absolute;width:19px;height: 19px;padding: 0;
+left:-20px;top:-2px;font-size: 18px;font-family: 'Orbitron', sans-serif;}
+
+.x:hover
+{color: red;}
+
+.block_inputText
+{width:200px;height: 200px;background: red;}
