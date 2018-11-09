@@ -1,0 +1,9 @@
+.phone
+{background: none;
+  border:none;border-bottom: 2px solid grey;color:white;width: 390px;}
+
+  .phone:focus
+  {border-bottom: 2px solid white;background: none;color:white;}
+
+.phone:active
+{border: none;}

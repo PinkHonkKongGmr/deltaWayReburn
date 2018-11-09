@@ -1,5 +1,2 @@
 body
-{background: black;}
-
-.mainwrapper
-{background: black; color: white;}
+{background: black!important;color: white!important;}
